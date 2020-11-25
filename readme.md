@@ -1,10 +1,10 @@
 # Electron Challenge
 
 
-##Objective
+## Objective
 Create a spotlight/alfred/keypirinha like app for desktop
 
-##Conditions to pass
+## Conditions to pass
 - App must be launched via keyboard command
 - App must search by ticker with 3 letters and autocomplete onChange
 - App must have background transparency
@@ -12,6 +12,9 @@ Create a spotlight/alfred/keypirinha like app for desktop
 - App must show Ticker and Name on autocompletion
 
 
-##Consume from this API:
+## Consume from this API:
 https://dumbstockapi.com/stock?ticker_search=AAP
+
+
+## Expected result
 
