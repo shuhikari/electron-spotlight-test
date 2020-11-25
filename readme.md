@@ -18,3 +18,5 @@ https://dumbstockapi.com/stock?ticker_search=AAP
 
 ## Expected result
 
+![Image example](resources/electron-final-example.gif)
+![Image example 2](resources/electron-final-example2.gif)
